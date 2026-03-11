@@ -32,13 +32,13 @@ visualize these patterns chronologically.
 
 ## Screenshots
 ### Album Overview
-![Album Overview](page1_album_overview.png)
+![Album Overview](Page1_Album_Overview.png)
 
 ### Audio Characteristics
-![Audio Characteristics](page2_audio_characteristics.png)
+![Audio Characteristics](Page2_Audio_Characteristics_Over_Time.png)
 
 ### Track Deep Dive
-![Track Deep Dive](page3_track_deep_dive.png)
+![Track Deep Dive](Page3_Track_Deep_Dive.png)
 
 ### Era Analysis
-![Era Analysis](page4_era_analysis.png)# ozzy-osbourne-analysis
+![Era Analysis](Page4_Era_Analysis.png)# ozzy-osbourne-analysis
